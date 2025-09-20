@@ -1,0 +1,14 @@
+.dart_tool
+.idea
+assets
+build
+linux
+macos
+test
+web
+windows
+.metadata
+config.json
+dashboard.iml
+pubspec.lock
+
