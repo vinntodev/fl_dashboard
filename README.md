@@ -2,6 +2,8 @@
 
 A simple and modern e-commerce app UI built with Flutter, displaying products like clothes, pants, shoes, and more. Includes category filters, search functionality, and location-based personalization.
 
+![image all](https://github.com/vinntodev/fl_dashboard/blob/a89a27bc9628097be72476b59dc98593d48545f2/ui.png)
+
 📱 Preview
 
 🚀 Features
@@ -67,3 +69,4 @@ Add login/register (authentication)
 
 This project is licensed under the MIT License.
 Feel free to use and modify it for your learning or projects.
+
